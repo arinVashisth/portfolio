@@ -286,7 +286,7 @@ onMounted(() => {
         </a>
 
         <!-- LinkedIn -->
-        <a href="https://www.linkedin.com/in/arin-vashish-05975526b/" target="_blank" rel="noopener" class="text-indigo-600 hover:text-indigo-800 font-medium underline">
+        <a href="https://www.linkedin.com/in/arin-vashisth-059755264/" target="_blank" rel="noopener" class="text-indigo-600 hover:text-indigo-800 font-medium underline">
           LinkedIn
         </a>
       </div>
